@@ -1,0 +1,51 @@
+id_pedido,cliente_id,data_pedido,status
+1,43,2024-08-14,Em processamento
+2,14,2024-07-25,Cancelado
+3,9,2024-08-29,Cancelado
+4,37,2024-06-27,Cancelado
+5,31,2024-09-28,Finalizado
+6,31,2024-07-04,Em processamento
+7,13,2024-09-22,Finalizado
+8,7,2025-04-14,Cancelado
+9,28,2025-01-28,Em processamento
+10,28,2024-10-13,Em processamento
+11,30,2024-12-14,Cancelado
+12,4,2024-12-27,Cancelado
+13,42,2024-11-06,Cancelado
+14,7,2024-08-11,Finalizado
+15,26,2025-04-12,Cancelado
+16,22,2024-10-23,Finalizado
+17,16,2025-04-26,Finalizado
+18,13,2024-11-18,Cancelado
+19,29,2024-07-08,Finalizado
+20,28,2024-09-15,Finalizado
+21,18,2024-12-18,Em processamento
+22,16,2024-09-23,Finalizado
+23,29,2024-11-26,Cancelado
+24,7,2025-03-02,Finalizado
+25,42,2025-03-16,Cancelado
+26,1,2024-06-22,Finalizado
+27,49,2024-09-04,Finalizado
+28,11,2024-09-27,Em processamento
+29,32,2025-04-20,Em processamento
+30,14,2025-02-02,Em processamento
+31,4,2024-07-25,Finalizado
+32,25,2025-01-10,Finalizado
+33,25,2024-10-18,Em processamento
+34,30,2025-05-22,Em processamento
+35,28,2025-01-07,Cancelado
+36,47,2024-10-13,Cancelado
+37,43,2025-03-16,Cancelado
+38,32,2024-10-05,Finalizado
+39,13,2024-08-22,Em processamento
+40,14,2024-12-01,Finalizado
+41,38,2024-12-25,Cancelado
+42,35,2025-04-28,Finalizado
+43,48,2024-08-18,Em processamento
+44,4,2024-11-14,Finalizado
+45,38,2024-12-07,Em processamento
+46,33,2025-05-07,Cancelado
+47,11,2024-07-31,Finalizado
+48,33,2025-02-07,Finalizado
+49,12,2024-09-25,Finalizado
+50,39,2024-08-29,Finalizado
